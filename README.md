@@ -1,7 +1,7 @@
 # Data-Analytics-Case-Studies
 This repository consist case studies implemented with Python and visualization tools .
 
-Section : Getting Started
+**Section : Getting Started**
 
  
     * How to load a pandas DataFrame
