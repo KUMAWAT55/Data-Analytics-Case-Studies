@@ -8,7 +8,7 @@ print("######")
 print(DataFrame.count())
 print("######")
 # Mean
-print(DataFrame.mean(Numeric=True))
+print(DataFrame.mean())
 #Max can be
 #Min can be
 #value_count
